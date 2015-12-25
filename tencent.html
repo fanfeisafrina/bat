@@ -4,7 +4,7 @@
 
 .node circle {
   cursor: pointer;
-  stroke: #4C668C;
+  stroke: #2D8633;
   stroke-width: 1.5px;
 }
 
@@ -16,7 +16,7 @@
 
 line.link {
   fill: none;
-  stroke: #758AA8;
+  stroke: #54A759;
   stroke-width: 1.5px;
 }
 
@@ -63,7 +63,7 @@ var svg = d3.select("body").append("svg")
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");
 
-d3.json("graph.json", function(error, json) {
+d3.json("tencent.json", function(error, json) {
   if (error) throw error;
 
   root = json;
@@ -135,8 +135,8 @@ function tick() {
 }
 
 function color(d) {
-  return d._children ? "#0B4192" // collapsed package
-      : d.children ? "#3668B1" // expanded package
+  return d._children ? "#86C98A" // collapsed package
+      : d.children ? "#37C630" // expanded package
       : "#FDFDFD"; // leaf node
 }
 
