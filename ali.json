@@ -1,6 +1,6 @@
 {
- "name": "Baidu",
- "icon":"image/baidu.png",
+ "name": "Alibaba",
+ "icon":"image/alibaba.png",
  "size":10000,
  "children": [
    
@@ -8,89 +8,108 @@
      "name": "O2O",
      "size":3000,
      "children": [
-      {"name": "Edaixi","description":"Laundry APP","time":"July 2015", "size": 6000,"icon":"image/edaixi.png"},
-      {"name": "Nuomi", "description":"Group-buying services","time":"Jan 2014","size":6000,"icon":"image/nuomi.gif"},
-      {"name": "Keruyun","description":"Customer calls tracking","time":"April 2015", "size": 6000,"icon":"image/keruyun.jpg"},
-      {"name": "Qunar", "description":"Travel Booking","time":"June 2011","size": 6000,"icon":"image/qunar.jpg"},
-      {"name": "Anjuke", "description":"Real Estate Agent","time":"March 2011","size": 6000,"icon":"image/anjuke.jpg"},
-      {"name": "Yihuwang", "description":"Mobile medical","time":"Feb 2015","size": 6000,"icon":"image/yihu.png"},
-      {"name": "Baixingwang", "description":"Classifieds Website","time":"June 2015","size": 6000,"icon":"image/baixing.png"}
+      {"name": "Koubeiwang","description":"Laundry APP","time":"Oct 2006", "size": 6000,"icon":"image/koubei.png"},
+      {"name": "Meituan", "description":"Group-buying services","time":"July 2011","size":6000,"icon":"image/meituan.png"},
+      {"name": "Dingdingwang","description":"Customer calls tracking","time":"Nov 2012", "size": 6000,"icon":"image/dingding.png"},
+      {"name": "58daojia", "description":"Travel Booking","time":"Sep 2015","size": 6000,"icon":"image/58daojia.png"},
+      {"name": "Qiongyou", "description":"Real Estate Agent","time":"July 2013","size": 6000,"icon":"image/qiongyou.jpeg"},
+      {"name": "Baicheng", "description":"Mobile medical","time":"March 2013","size": 6000,"icon":"image/baicheng.png"}
      ]
     },
     
     {
-     "name": "Education",
+     "name": "Hardware",
      "size":3000,
      "children": [
-      {"name": "Hujiangwang","description":"Online learning platform","time":"April 2014", "size": 6000,"icon":"image/hujiangwang.png"},
-      {"name": "Tonara", "description":"interactive sheet music application","time":"Jan 2014","size":6000,"icon":"image/tonara.png"},
-      {"name": "Zhikewang","description":"Online learning platform","time":"Sep 2014", "size": 6000,"icon":"image/zhikewang.png"},
-      {"name": "Chuankewang", "description":"Online learning platform","time":"Aug 2014","size": 6000,"icon":"image/chuankewang.png"},
-      {"name": "Wanxuejiaoyu", "description":"Online learning platform","time":"July 2014","size": 6000,"icon":"image/wanxuejiaoyu.png"}
-     ]
+      {"name": "Micromax","description":"Online learning platform","time":"June 2015", "size": 6000,"icon":"image/micromax.png"},
+      {"name": "Meizu", "description":"interactive sheet music application","time":"Feb 2015","size":6000,"icon":"image/meizu.png"},
+      {"name": "peel","description":"Online learning platform","time":"March 2014", "size": 6000,"icon":"image/peel.png"}
+    ]  
     },
 
     {
-     "name": "Transportation",
+     "name": "Social Network",
      "size":3000,
      "children": [
-      {"name": "tiantianyongche","description":"Carpool service","time":"April 2014", "size": 6000,"icon":"image/tiantianyongche.png"},
-      {"name": "uber", "description":"Car hire","time":"Dec 2014","size":6000,"icon":"image/uber.png"},
-      {"name": "51yongche","description":"Car hire","time":"April 2015", "size": 6000,"icon":"image/51yongche.png"},
-      {"name": "baichuankuaixian", "description":"Logistics service","time":"Oct 2014","size": 6000,"icon":"image/baichuankuaixian.png"}
+      {"name": "tango","description":"Carpool service","time":"March 2014", "size": 6000,"icon":"image/tango.png"},
+      {"name": "Sinaweibo", "description":"Car hire","time":"April 2013","size":6000,"icon":"image/sina.gif"},
+      {"name": "momo","description":"Chinese Tinder","time":"June 2012", "size": 6000,"icon":"image/momo.png"},
+      {"name": "snapchat", "description":"Logistics service","time":"March 2015","size": 6000,"icon":"image/snapchat.png"}
      ]
     },
     {
      "name": "Culture",
      "size":3000,
      "children": [
-      {"name": "Xingmei","description":"Media Group","time":"June 2015", "size": 6000,"icon":"image/Xingmei.png"},
-      {"name": "Qianqianjingting", "description":"Music Player","time":"July 2006","size":6000,"icon":"image/qianqianjingting.png"},
-      {"name": "LeftBrain","description":"Network Technology","time":"June 2011", "size": 6000,"icon":"image/leftrain.png"},
-      {"name": "Fanshu", "description":"Online book service","time":"Aug 2011","size": 6000,"icon":"image/fanshu.png"},
-      {"name": "Qiyi", "description":"Online video portal","time":"Nov 2012","size": 6000,"icon":"image/iqiyi.png"},
-      {"name": "PPS", "description":"Online video portal","time":"May 2013","size": 6000,"icon":"image/pps.png"},
-      {"name": "Yoka.com", "description":"Fashion website","time":"Dec 2013","size":6000,"icon":"image/yoka.com.png"},
-      {"name": "Zonghengzhongwen","description":"Book service","time":"Dec 2013", "size": 6000,"icon":"image/zonghengzhongwen.png"},
-      {"name": "Pixellot", "description":"Screenshot company","time":"Dec 2014","size": 6000,"icon":"image/Pixellot.png"}
+      {"name": "huayixiongdi","description":"Media Group","time":"Nov 2014", "size": 6000,"icon":"image/huayi.png"},
+      {"name": "guangxian", "description":"Music Player","time":"March 2015","size":6000,"icon":"image/guangxian.jpeg"},
+      {"name": "diyicaijing","description":"Network Technology","time":"June 2015", "size": 6000,"icon":"image/diyicaijing.png"},
+      {"name": "youkutudou", "description":"Online book service","time":"April 2014","size": 6000,"icon":"image/youkutudou.png"},
+      {"name": "huashu", "description":"Online video portal","time":"April 2014","size": 6000,"icon":"image/huashu.png"},
+      {"name": "tiantiandongting", "description":"Online video portal","time":"Dec 2013","size": 6000,"icon":"image/tiantian.png"},
+      {"name": "xiami", "description":"Music share APP","time":"Jan 2013","size":6000,"icon":"image/xiami.png"},
+      {"name": "wenhuazhongguo","description":"Book service","time":"March 2014", "size": 6000,"icon":"image/wenhua.jpeg"},
+      {"name": "huarenwenhua", "description":"Screenshot company","time":"Oct 2015","size": 6000}
+
+     ]
+    },
+     {
+     "name": "Logistics",
+     "size":3000,
+     "children": [
+      {"name": "baishi","description":"Media Group","time":"July 2009", "size": 6000,"icon":"image/baishi.png"},
+      {"name": "xingchenjishi", "description":"Music Player","time":"March 2010","size":6000,"icon":"image/xingchen.jpg"},
+      {"name": "ririshun","description":"Network Technology","time":"Dec 2013", "size": 6000,"icon":"image/ririshun.png"},
+      {"name": "cainiao", "description":"Online book service","time":"May 2013","size": 6000,"icon":"image/cainiao.png"},
+      {"name": "Singaporepost", "description":"Singapore post","time":"May 2014","size": 6000,"icon":"image/xinjiapo.png"},
+      {"name": "yuantong", "description":"Online video portal","time":"May 2015","size": 6000,"icon":"image/yuantong.png"}
 
      ]
     },
     {
-     "name": "Tools",
+     "name": "Finance",
      "size":3000,
      "children": [
-      {"name": "uucun","description":"Laundry APP","time":"Aug 2013", "size": 6000,"icon":"image/uucun.png"},
-      {"name": "liebaoyidong", "description":"Laundry APP","time":"April 2014","size":6000,"icon":"image/liebaoyidong.png"},
-      {"name": "hushihulian","description":"Laundry APP","time":"June 2015", "size": 6000,"icon":"image/huashihulian.png"},
-      {"name": "indoor atlas", "description":"Laundry APP","time":"Sep 2014","size": 6000,"icon":"image/indooratlas.png"},
-      {"name": "trustgo", "description":"Laundry APP","time":"July 2013","size": 6000,"icon":"image/trustgo.png"},
-      {"name": "jietonghuasheng", "description":"Laundry APP","time":"May 2013","size": 6000,"icon":"image/jietonghuasheng.png"},
-      {"name": "91wuxian", "description":"Fashion website","time":"Jan 2013","size":6000,"icon":"image/91wuxian.png"},
-      {"name": "16wifi","description":"Laundry APP","time":"June 2015", "size": 6000,"icon":"image/16wifi.png"},
-      {"name": "taboola", "description":"Screenshot company","time":"May 2015","size": 6000,"icon":"image/taboola.png"}
+      {"name": "zhonganbaoxian", "description":"Laundry APP","time":"Nov 2013","size": 6000,"icon":"image/zhongan.png"},
+      {"name": "hengsheng", "description":"Finance APP","time":"April 2014 2014","size":6000,"icon":"image/hengsheng.jpeg"}
      ]
     },
     {
+     "name": "Transportation",
+     "size":3000,
+     "children": [
+      {"name": "kuaidi", "description":"Car hire APP","time":"April 2013","size": 6000,"icon":"image/kuaidi.png"},
+      {"name": "gaode", "description":"Navigation APP","time":"May 2013","size":6000,"icon":"image/gaode.png"}
+     ]
+    },
+        {
      "name": "Others",
      "size":3000,
      "children": [
-      {"name": "dianxin", "description":"Laundry APP","time":"Feb 2013","size": 6000,"icon":"image/dianxin.png"},
-      {"name": "langanghudong", "description":"Fashion website","time":"May 2014","size":6000,"icon":"image/langanghudong.png"},
-      {"name": "shenqigongchang","description":"Laundry APP","time":"Feb 2015", "size": 6000,"icon":"image/zuk.png"},
-      {"name": "Baifenzhibai", "description":"Screenshot company","time":"Nov 2013","size": 6000,"icon":"image/baifenzhibai.png"}
+      {"name": "zhongxin", "description":"Laundry APP","time":"Jan 2014","size": 6000,"icon":"image/zhongxin.jpg"},
+      {"name": "one97", "description":"Laundry APP","time":"Sep 2015","size": 6000,"icon":"image/one97.jpg"},
+      {"name": "hengda", "description":"Laundry APP","time":"June 2014","size": 6000,"icon":"image/hengda.png"},
+      {"name": "wanwang", "description":"Laundry APP","time":"Sep 2009","size": 6000,"icon":"image/wanwang.jpg"},
+      {"name": "shiji", "description":"Fashion website","time":"Sep 2014","size":6000,"icon":"image/shiji.jpg"},
+      {"name": "Quixey","description":"Laundry APP","time":"Oct 2013", "size": 6000,"icon":"image/quixey.png"},
+      {"name": "UC","description":"Laundry APP","time":"March 2013", "size": 6000,"icon":"image/uc.png"},
+      {"name": "cnzz","description":"Laundry APP","time":"May 2011", "size": 6000,"icon":"image/cnzz.jpg"},
+      {"name": "youmeng", "description":"Screenshot company","time":"April 2013","size": 6000,"icon":"image/youmeng.png"}
      ]
     },
     {
      "name": "E-commerce",
      "size":3000,
      "children": [
-      {"name": "womaiwang", "description":"Food E-commerce","time":"Oct 2015","size": 6000,"icon":"image/womaiwang.png"},
-      {"name": "miya", "description":"Laundry APP","time":"Sep 2015","size": 6000,"icon":"image/miya.png"},
-      {"name": "zhiwo", "description":"Laundry APP","time":"Dec 2011","size": 6000,"icon":"image/zhiwo.png"},
-      {"name": "qijia", "description":"Fashion website","time":"Dec 2010","size":6000,"icon":"image/qijia.png"},
-      {"name": "youxinpai","description":"Laundry APP","time":"March 2015", "size": 6000,"icon":"image/youxinpai.png"},
-      {"name": "ffan", "description":"Screenshot company","time":"Aug 2014","size": 6000,"icon":"image/ffan.png"}
+      {"name": "suning", "description":"Food E-commerce","time":"Aug 2015","size": 6000,"icon":"image/suning.png"},
+      {"name": "mingxie", "description":"Laundry APP","time":"July 2011","size": 6000,"icon":"image/mingxie.jpg"},
+      {"name": "taotaosou", "description":"Laundry APP","time":"April 2010","size": 6000,"icon":"image/taotaosou.jpg"},
+      {"name": "snapdeal", "description":"Fashion website","time":"Aug 2015","size":6000,"icon":"image/snapdeal.jpg"},
+      {"name": "yintai","description":"Laundry APP","time":"March 2014", "size": 6000,"icon":"image/yintai.jpg"},
+      {"name": "1stdibs","description":"Luxury products","time":"March 2014", "size": 6000,"icon":"image/1stdibs.jpg"},
+      {"name": "shoprunner","description":"XX products","time":"Aug 2013", "size": 6000,"icon":"image/shoprunner.jpg"},
+      {"name": "fanatics","description":"Sports products","time":"June 2013", "size": 6000,"icon":"image/fanatics.jpg"},
+      {"name": "zulily", "description":"Screenshot company","time":"May 2015","size": 6000,"icon":"image/zulily.jpeg"}
      ]
     }
    ]

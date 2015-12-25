@@ -19,7 +19,7 @@
     },
     
     {
-     "name": "Education",
+     "name": "Gaming",
      "size":3000,
      "children": [
       {"name": "Hujiangwang","description":"Online learning platform","time":"April 2014", "size": 6000,"icon":"image/hujiangwang.png"},
@@ -31,7 +31,7 @@
     },
 
     {
-     "name": "Transportation",
+     "name": "Finance",
      "size":3000,
      "children": [
       {"name": "tiantianyongche","description":"Carpool service","time":"April 2014", "size": 6000,"icon":"image/tiantianyongche.png"},
@@ -73,6 +73,26 @@
     },
     {
      "name": "Others",
+     "size":3000,
+     "children": [
+      {"name": "dianxin", "description":"Laundry APP","time":"Feb 2013","size": 6000,"icon":"image/dianxin.png"},
+      {"name": "langanghudong", "description":"Fashion website","time":"May 2014","size":6000,"icon":"image/langanghudong.png"},
+      {"name": "shenqigongchang","description":"Laundry APP","time":"Feb 2015", "size": 6000,"icon":"image/zuk.png"},
+      {"name": "Baifenzhibai", "description":"Screenshot company","time":"Nov 2013","size": 6000,"icon":"image/baifenzhibai.png"}
+     ]
+    },
+     {
+     "name": "Hardware",
+     "size":3000,
+     "children": [
+      {"name": "dianxin", "description":"Laundry APP","time":"Feb 2013","size": 6000,"icon":"image/dianxin.png"},
+      {"name": "langanghudong", "description":"Fashion website","time":"May 2014","size":6000,"icon":"image/langanghudong.png"},
+      {"name": "shenqigongchang","description":"Laundry APP","time":"Feb 2015", "size": 6000,"icon":"image/zuk.png"},
+      {"name": "Baifenzhibai", "description":"Screenshot company","time":"Nov 2013","size": 6000,"icon":"image/baifenzhibai.png"}
+     ]
+    },
+     {
+     "name": "Social Network",
      "size":3000,
      "children": [
       {"name": "dianxin", "description":"Laundry APP","time":"Feb 2013","size": 6000,"icon":"image/dianxin.png"},
