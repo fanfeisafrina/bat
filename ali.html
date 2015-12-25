@@ -35,6 +35,11 @@ span{
   left:900px;
 }
 
+body svg{
+  margin-left:400px;
+}
+
+
 </style>
 <body>
   <img id="mayun" src="image/mayun.jpg">
@@ -42,7 +47,7 @@ span{
 
 <script>
 
-var width = 1800,
+var width = 1000,
     height = 600,
     root;
 
@@ -55,7 +60,8 @@ var force = d3.layout.force()
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height)
+   
 
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");
