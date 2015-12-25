@@ -20,8 +20,28 @@ line.link {
   stroke-width: 1.5px;
 }
 
+#liyanhong{
+    position: absolute;
+    left: 780px;
+    top: 0;
+    width:500px;
+    opacity: 0.5;
+    
+}
+
+
+
+
+
+span{
+  color:#DE151C;
+  font-size: 60px;
+  left:900px;
+}
+
 </style>
 <body>
+  <img id="liyanhong" src="image/liyanhong.jpg">
 <script src="./d3.js" charset="utf-8"></script>
 
 <script>
@@ -95,7 +115,7 @@ function update() {
       .text(function(d) { return d.name; });
 
   nodeEnter.append("text")
-      .attr("dy", ".35em")
+      .attr("dy", ".4em")
       .text(function(d) { return d.description; });
 
   nodeEnter.append("text")
